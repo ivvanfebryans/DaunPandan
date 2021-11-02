@@ -14,6 +14,7 @@ keagamaan. Manfaat daun pandan
 9. Membantu proses detoksifikasi tubuh
 10. Suplemen untuk kulit dan rambut
 11. Mengatasi gejala asam urat
+
 Pada tugas ini gambar daun pandan ini menjadi Data Label 2 yang dimana berisikan
 50 images. Images daun pandan tersebut diambil dengan kamera handphone dengan
 merk OPPO F9 secara landscape.
